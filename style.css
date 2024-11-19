@@ -20,7 +20,7 @@
     justify-content: center;
     }
     .cabecalho-imagem{
-    width: 30px;%;
+    width: 1980px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -73,7 +73,7 @@
     background-image: linear-gradient(#987070,#987070);
     color: #987070
     display: flex;
-    justify-content:center;
+    justify-content:center(0, 0, 1)
     padding: 24px 0;
     text-align:center;
     display:block;
